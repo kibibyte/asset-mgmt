@@ -25,7 +25,7 @@ $ ./gradlew bootJar
 $ docker compose up
 ```
 
-Example request:
+Example request (test dev):
 
 ```shell script
 curl --request GET --url http://localhost:8080/assets
